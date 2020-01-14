@@ -1,0 +1,9 @@
+pwd
+cd
+ls
+mv
+cp
+rm
+touch
+cat
+vi
